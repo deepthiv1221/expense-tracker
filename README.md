@@ -3,7 +3,7 @@
 A simple and interactive **Expense Tracker** web application to easily manage and monitor your expenses.
 
 ## 🚀 Live Demo
-> **[Live on GitHub Pages](https://deepthiv1221.github.io/expense-tracker/)**  
+ https://deepthiv1221.github.io/expense-tracker/
 _(Make sure to deploy your project to update this link)_
 
 
